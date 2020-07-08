@@ -6,5 +6,4 @@ public class ProtocolException extends Exception
     {
         super(message);
     }
-
 }
